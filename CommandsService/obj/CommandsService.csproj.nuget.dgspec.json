@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\proyectos\\microservices\\s4\\e3\\CommandsService\\CommandsService.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\microservicestest\\CommandsService\\CommandsService.csproj": {}
   },
   "projects": {
-    "C:\\proyectos\\microservices\\s4\\e3\\CommandsService\\CommandsService.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\microservicestest\\CommandsService\\CommandsService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\proyectos\\microservices\\s4\\e3\\CommandsService\\CommandsService.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\microservicestest\\CommandsService\\CommandsService.csproj",
         "projectName": "CommandsService",
-        "projectPath": "C:\\proyectos\\microservices\\s4\\e3\\CommandsService\\CommandsService.csproj",
-        "packagesPath": "C:\\Users\\Byron\\.nuget\\packages\\",
-        "outputPath": "C:\\proyectos\\microservices\\s4\\e3\\CommandsService\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\microservicestest\\CommandsService\\CommandsService.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\microservicestest\\CommandsService\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Byron\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -102,7 +99,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -114,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
